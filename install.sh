@@ -1,3 +1,5 @@
+#!/bin/bash
+
 WS_DASHBOARD=/workspaces/awesome-dash
 
 if [[ -d ${WS_DASHBOARD} ]] 
