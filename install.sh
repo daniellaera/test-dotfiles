@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp .env ${WS_DASHBOARD}/.env
+cp .env /.env
