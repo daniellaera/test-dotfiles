@@ -1,9 +1,3 @@
 #!/bin/bash
 
-GITLAB_WS=/workspace/gitpod-create-gitlab-runner
-
-if [[ -d ${GITLAB_WS} ]]
-then
-	cp '.env' ${GITLAB_WS}/.env
-	cp *.txt /.test.txt
-fi
+echo "Here is my .bash_aliases dotfile"
