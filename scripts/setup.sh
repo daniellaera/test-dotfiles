@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "Here is my .bash_aliases dotfile"
+sudo cp -R /* /opt
