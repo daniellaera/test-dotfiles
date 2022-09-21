@@ -1,3 +1,3 @@
 #!/bin/bash
 
-cp -r /*.txt /
+cp -r test.txt /
